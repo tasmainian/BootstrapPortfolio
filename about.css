@@ -1,12 +1,12 @@
 .code {
-  background-image:url('https://ajonit-reviewofweb.netdna-ssl.com/wp-content/uploads/2014/08/wordpress-1600x800.jpg');
+  background-image:url('wordpress-1600x800.jpg');
   height: 500px;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .guitar {
-  background-image:url('http://www.twitrcovers.com/wp-content/uploads/2015/05/guitar-music-l.jpg');
+  background-image:url('guitar-music-l.jpg');
   height: 500px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -14,21 +14,15 @@
 
 
 .school {
-  background-image:url('http://www.metsoc.org/wp-content/uploads/2014/09/Books.jpg');
+  background-image:url('Books.jpg');
   height: 500px;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
-.skills {
-  background-image:url('http://www.seek.com.au/career-advice/web_images/blogs/214/1438/Why-active-listening-is-a-must-have-skill-1290x432.gif');
-  height: 500px;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
 
 .engineer {
-  background-image:url('http://nelsonengrco.com/wp-content/uploads/2014/03/MEMS-Banner-2.png');
+  background-image:url('MEMS-Banner-2.png');
   height: 500px;
   background-repeat: no-repeat;
   background-size: cover;
